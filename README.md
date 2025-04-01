@@ -12,6 +12,15 @@
 
 # AssemblyAI Go SDK
 
+> [!IMPORTANT]
+> As of April 2025, AssemblyAI Go SDK **has been discontinued** and will no longer be maintained.
+>
+> While the SDK will no longer be updated, any previously published releases will remain available.
+>
+> Going forward, see the [AssemblyAI API reference](https://www.assemblyai.com/docs/api-reference) for information on how to integrate with our API directly. 
+>
+> We know this is a disruptive change. If you need help with this transition, [reach out to our Support team](https://www.assemblyai.com/contact/support) and we'll help you in any way we can. 
+
 A Go client library for accessing [AssemblyAI](https://assemblyai.com).
 
 ## Overview
