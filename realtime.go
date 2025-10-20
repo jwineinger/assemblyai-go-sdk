@@ -273,7 +273,7 @@ type SessionBegins struct {
 	MessageType string `json:"message_type"`
 
 	// Unique identifier for the established session
-	SessionID string `json:"session_id"`
+	SessionID int64 `json:"session_id"`
 }
 
 type SessionInformation struct {
